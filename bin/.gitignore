@@ -1,0 +1,17 @@
+/.directory
+/GrayFilter$GrayModel.class
+/GrayFilter.class
+/ImageFilter.class
+/ImageGrayFilterDemo$1.class
+/ImageGrayFilterDemo.class
+/ImageIOHelper.class
+/ImageUtils.class
+/OCR.class
+/TestOCR.class
+/jai_imageio-1.1.jar
+/jna.jar
+/junit-4.10.jar
+/net/
+/slf4j-api-1.7.5.jar
+/swingx-1.6.1.jar
+/tess4j.jar
